@@ -13,8 +13,8 @@
 ---
 
 ## 🌟 About Me
+<p>I am a Computer Engineering student at NMIMS University with a deep passion for Artificial Intelligence and its real-world impact. Specializing in machine learning algorithms, I strive to develop innovative AI-driven solutions that address complex challenges. Continuously expanding my expertise, I enjoy collaborating on cutting-edge projects and contributing to transformative advancements in technology. Let’s connect to explore AI opportunities and drive meaningful innovation together!</p>
 
-I am a Computer Engineering student at NMIMS University with a deep passion for Artificial Intelligence and its real-world impact. Specializing in machine learning algorithms, I strive to develop innovative AI-driven solutions that address complex challenges. Continuously expanding my expertise, I enjoy collaborating on cutting-edge projects and contributing to transformative advancements in technology. Let’s connect to explore AI opportunities and drive meaningful innovation together!
 ---
 
 ## 📚 Currently Learning
